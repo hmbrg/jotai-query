@@ -6,24 +6,11 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 [![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg)](https://github.com/semantic-release/semantic-release)
 
-A template to generate a npm package for a react app using typescript and modern
-CI tools.
+Keep in sync with server state using react-query and manage it with jotai.
 
 ## Usage
 
-1. Fork.
-2. Use fork to start a
-   [new repository using the template.](https://help.github.com/en/articles/creating-a-repository-from-a-template)
-3. Globally search and replace:
-   - `jotai-query` for `<your-repo-name>`.
-4. Enable:
-   - [Codecov.](https://codecov.io)
-   - [Code Climate.](https://codeclimate.com/oss/)
-   - [Travis CI.](https://travis-ci.org)
-     - Add codecov env variable.
-   - [semantic-release.](https://github.com/semantic-release/semantic-release/blob/HEAD/docs/usage/getting-started.md#getting-started)
-5. Update this README.md, [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md),
-   [CONTRIBUTING.md](CONTRIBUTING.md), etc.
+**WIP**
 
 ## Contributors ✨
 
