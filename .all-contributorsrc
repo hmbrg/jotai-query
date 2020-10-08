@@ -1,6 +1,6 @@
 {
-  "projectName": "npm-react-typescript-package-template",
-  "projectOwner": "jlison",
+  "projectName": "jotai-query",
+  "projectOwner": "hmbrg",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
