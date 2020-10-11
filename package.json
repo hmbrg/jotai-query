@@ -20,11 +20,10 @@
   "keywords": [
     "react",
     "typescript",
-    "npm-package",
-    "template-project",
-    "continuous-integration",
-    "skeleton",
-    "setup"
+    "react-query",
+    "jotai",
+    "state-management",
+    "state"
   ],
   "author": "J Lison <j@lison.us>",
   "license": "MIT",
